@@ -1,0 +1,50 @@
+{
+  "page": {
+    "title": "Olá, meu nome é Henrique👋",
+    "phrase-1": "Sou um estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor full-stack, focado principalmente no front-end.",
+    "phrase-2": "Minha carreira em programação começou na faculdade com Java, linguagem a qual considerei como minha principal por muito tempo. Após me aprofundar através da Alura, deparei-me com o Node.js, que se tornou meu foco juntamente com o JavaScript, consequentemente.",
+    "phrase-3": "Atualmente, meus estudos estão voltados a conceitos, arquiteturas e padrões de projeto relacionados à web, além do aprofundamento em bibliotecas e ferramentas amplamente utilizadas no mercado, como React.js e Next.js, tecnologias que estão em constante evolução.",
+    "phrase-4": "Apesar disso tudo, minha paixão mesmo é por gatos, música e mais gatos. Explore o site e descubra mais sobre mim."
+  },
+  "projects": {
+    "phrase-1": "Todos os meus projetos pessoais, bem aqui.",
+    "phrase-2": "Reserve um minuto para dar uma olhada, você não ficará entediado."
+  },
+  "dialog-settings": {
+    "title": "Ajustes",
+    "description": "Apenas alguns ajustes gerais.",
+    "label-theme": "Tema:",
+    "label-language": "Idioma:"
+  },
+  "dialog-email": {
+    "trigger": "Algum problema?",
+    "description": "Envie-me um email."
+  },
+  "form-email": {
+    "label-from-children": "Email:",
+    "label-from-error": "Isso deve ser um email.",
+    "label-subject": "Assunto:",
+    "label-text": "Descreva seu problema:",
+    "button": "Enviar Email",
+    "toast-success-title": "Email enviado.",
+    "toast-success-description": "Fique de olho no seu email, um retorno deve chegar em breve.",
+    "toast-fail-title": "Falha ao enviar email.",
+    "toast-fail-description": "Ocorreu um erro desconhecido."
+  },
+  "header": {
+    "description": "Desenvolvedor Full-Stack"
+  },
+  "navigation-menu": {
+    "home-button": "Início",
+    "projects-button": "Projetos"
+  },
+  "select-language": {
+    "placeholder-english": "Inglês",
+    "placeholder-portuguese": "Português",
+    "button": "Recarregar página?"
+  },
+  "footer": {
+    "phrase-1": "Desenvolvido por ",
+    "phrase-2": "mim"
+  }
+}

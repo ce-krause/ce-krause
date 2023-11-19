@@ -1,0 +1,50 @@
+{
+  "page": {
+    "title": "Hey, I'm Henrique👋",
+    "phrase-1": "I am a student of Systems Analysis and Development and a full-stack developer, mainly focused on the front-end.",
+    "phrase-2": "My career in programming began in college with Java, a language that I considered my main one for a long time. After delving into it through Alura, I came across Node.js, which became my main focus along with JavaScript, consequently.",
+    "phrase-3": "Nowadays, my studies are oriented on concepts, architectures and design patterns related to the web, as well as deepening my knowledge in some widely used libraries and frameworks in the market, such as React.js and Next.js, technologies that are constantly evolving.",
+    "phrase-4": "Despite all of that, my true passion is for cats, music and cats. Explore the website and discover more about me."
+  },
+  "projects": {
+    "phrase-1": "All of my personal projects, right here.",
+    "phrase-2": "Take a minute to look, you won't get bored."
+  },
+  "dialog-settings": {
+    "title": "Settings",
+    "description": "Just a couple of general settings.",
+    "label-theme": "Theme:",
+    "label-language": "Language:"
+  },
+  "dialog-email": {
+    "trigger": "Any trouble?",
+    "description": "Send me an email."
+  },
+  "form-email": {
+    "label-from-children": "Email:",
+    "label-from-error": "This should be an email.",
+    "label-subject": "Subject:",
+    "label-text": "Describe your problem:",
+    "button": "Send Email",
+    "toast-success-title": "Mail sent.",
+    "toast-success-description": "Keep a look on your email, a return should come soon.",
+    "toast-fail-title": "Failed to send email.",
+    "toast-fail-description": "An unknown error has ocurred."
+  },
+  "header": {
+    "description": "Full-Stack Developer"
+  },
+  "navigation-menu": {
+    "home-button": "Home",
+    "projects-button": "Projects"
+  },
+  "select-language": {
+    "placeholder-english": "English",
+    "placeholder-portuguese": "Portuguese",
+    "button": "Refresh page?"
+  },
+  "footer": {
+    "phrase-1": "Developed by ",
+    "phrase-2": "me"
+  }
+}
