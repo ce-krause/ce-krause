@@ -1,5 +1,5 @@
 import createMiddleware from 'next-intl/middleware'
-import { NextRequest } from 'next/server'
+import { NextRequest, NextResponse } from 'next/server'
 
 const intlMiddleware = createMiddleware({
   locales: ['en', 'pt'],
@@ -8,7 +8,8 @@ const intlMiddleware = createMiddleware({
 })
 
 export const middleware = (req: NextRequest) => {
-  if (req.nextUrl.pathname === '/') req.nextUrl.pathname = '/home'
+  if (req.nextUrl.pathname === '/')
+    return NextResponse.redirect(new URL('/home', req.nextUrl.origin))
 
   return intlMiddleware(req)
 }
