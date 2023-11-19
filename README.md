@@ -1,6 +1,6 @@
 # cekrause
 
-This website was developed with the purpose of being my professional portfolio.
+This website was developed with the purpose of being my professional portfolio. In addition to the usual functionalities of a portfolio, it also serves as an example of clean and well-structured code, following best practices and conventions of both the language and the architecture and infrastructure of Next.js.
 
 - **Framework**: [Next.js](https://nextjs.org)
 - **Styling**:
