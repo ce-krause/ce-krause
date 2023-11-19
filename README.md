@@ -1,6 +1,6 @@
 # cekrause
 
-This project was built with the purpose to be my professional portfolio.
+This website was developed with the purpose to be my professional portfolio.
 
 - **Framework**: [Next.js](https://nextjs.org)
 - **Styling**:
