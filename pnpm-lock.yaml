@@ -60,8 +60,8 @@ dependencies:
     specifier: ^6.9.7
     version: 6.9.7
   octokit:
-    specifier: ^3.1.1
-    version: 3.1.1
+    specifier: ^3.1.2
+    version: 3.1.2
   react:
     specifier: ^18
     version: 18.2.0
@@ -410,8 +410,8 @@ packages:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.15.0
 
-  /@octokit/app@14.0.1:
-    resolution: {integrity: sha512-4opdXcWBVhzd6FOxlaxDKXXqi9Vz2hsDSWQGNo49HbYFAX11UqMpksMjEdfvHy0x19Pse8Nvn+R6inNb/V398w==}
+  /@octokit/app@14.0.2:
+    resolution: {integrity: sha512-NCSCktSx+XmjuSUVn2dLfqQ9WIYePGP95SDJs4I9cn/0ZkeXcPkaoCLl64Us3dRKL2ozC7hArwze5Eu+/qt1tg==}
     engines: {node: '>= 18'}
     dependencies:
       '@octokit/auth-app': 6.0.1
@@ -420,7 +420,7 @@ packages:
       '@octokit/oauth-app': 6.0.0
       '@octokit/plugin-paginate-rest': 9.1.3(@octokit/core@5.0.1)
       '@octokit/types': 12.2.0
-      '@octokit/webhooks': 12.0.3
+      '@octokit/webhooks': 12.0.10
     dev: false
 
   /@octokit/auth-app@6.0.1:
@@ -648,8 +648,8 @@ packages:
     resolution: {integrity: sha512-y92CpG4kFFtBBjni8LHoV12IegJ+KFxLgKRengrVjKmGE5XMeCuGvlfRe75lTRrgXaG6XIWJlFpIDTlkoJsU8w==}
     dev: false
 
-  /@octokit/webhooks@12.0.3:
-    resolution: {integrity: sha512-8iG+/yza7hwz1RrQ7i7uGpK2/tuItZxZq1aTmeg2TNp2xTUB8F8lZF/FcZvyyAxT8tpDMF74TjFGCDACkf1kAQ==}
+  /@octokit/webhooks@12.0.10:
+    resolution: {integrity: sha512-Q8d26l7gZ3L1SSr25NFbbP0B431sovU5r0tIqcvy8Z4PrD1LBv0cJEjvDLOieouzPSTzSzufzRIeXD7S+zAESA==}
     engines: {node: '>= 18'}
     dependencies:
       '@octokit/request-error': 5.0.1
@@ -3113,11 +3113,11 @@ packages:
       es-abstract: 1.22.3
     dev: true
 
-  /octokit@3.1.1:
-    resolution: {integrity: sha512-AKJs5XYs7iAh7bskkYpxhUIpsYZdLqjnlnqrN5s9FFZuJ/a6ATUHivGpUKDpGB/xa+LGDtG9Lu8bOCfPM84vHQ==}
+  /octokit@3.1.2:
+    resolution: {integrity: sha512-MG5qmrTL5y8KYwFgE1A4JWmgfQBaIETE/lOlfwNYx1QOtCQHGVxkRJmdUJltFc1HVn73d61TlMhMyNTOtMl+ng==}
     engines: {node: '>= 18'}
     dependencies:
-      '@octokit/app': 14.0.1
+      '@octokit/app': 14.0.2
       '@octokit/core': 5.0.1
       '@octokit/oauth-app': 6.0.0
       '@octokit/plugin-paginate-graphql': 4.0.0(@octokit/core@5.0.1)
